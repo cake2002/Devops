@@ -1,0 +1,21 @@
+Jenkins periodic Job Execution.
+1)Create a New Item.
+
+2)Add the Job Description .
+
+
+
+3) In Build Trigger choose the “Build Periodically” option.
+4) In build periodically enter “* * * * *”.
+
+5) In the “Build Steps” option choose “ Execute Window Bash Command”.
+
+6) Under that option enter the path of the file you want to execute .
+
+
+7) The dashboard will reflect the job done successfully .
+
+
+
+
+
