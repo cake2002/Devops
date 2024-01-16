@@ -1,0 +1,38 @@
+
+
+1)Go to the Dashboard.
+
+2)Go to the “Manage Jenkins” Option.
+
+3)Click on “Users”
+
+4) Here we can create multiple users.
+
+5) For example : we will create a user called as “User2”
+
+6)We have created two users User1 and User2.
+
+7) Now login with those credentials.
+
+8)Similarly we can sign in using User2 credentials
+But access will be denied for these newly created users.
+
+9)For providing these permissions, firstly we need to
+Go to Manage Jenkins -> Go to Security
+Under Authorization -> Select Project based Matrix Authorization Strategy from the given dropdown menu.
+
+10)Add both User1 and User2 using Add user… option
+Select all the permissions you want to give User1 and User2
+11)Save these changes.
+12)Now login to User1 and the dashboard will look like:
+
+ 13) Now login to User2.
+
+
+
+ 
+ 
+
+
+
+
