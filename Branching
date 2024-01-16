@@ -1,0 +1,20 @@
+Branching:
+
+git checkout
+The git checkout command is used to switch branches and check content out into your working directory.
+
+git merge
+The git merge tool is used to merge one or more branches into the branch you have checked out. It will then advance the current branch to the result of the merge.
+
+
+git mergetool
+The git mergetool command simply launches an external merge helper in case you have issues with a merge in Git.
+
+git log
+The git log command is used to show the reachable recorded history of a project from the most recent commit snapshot backwards. By default it will only show the history of the branch you’re currently on, but can be given different or even multiple heads or branches from which to traverse. It is also often used to show differences between two or more branches at the commit level.
+
+git stash
+The git stash command is used to temporarily store uncommitted work in order to clean out your working directory without having to commit unfinished work on a branch.
+
+Git ignore:
+.gitignore file is used in a git repository to ignore the files and directories which are unnecessary to project this will be ignored by the git once the changes as been committed to the Remote repository. The type of files which will gets ignored are the mainly temporary files and the files which should not be versioned.
