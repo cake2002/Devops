@@ -1,0 +1,13 @@
+Init:
+
+git init
+git init Prapti
+
+Add : git add P1/read.rtf
+
+Status:
+git status 
+
+
+Commit : git commit
+
