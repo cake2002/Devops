@@ -1,0 +1,28 @@
+
+
+Create a new item with option FreeStyle project.
+
+Add a description about the job.
+
+Choose a build trigger.
+
+For remote execution, choose Trigger builds remotely
+
+
+Type authentication token that will be used in the url
+
+Open a new tab in browser,enter http://localhost:8080.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
