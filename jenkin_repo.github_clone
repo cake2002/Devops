@@ -1,0 +1,22 @@
+
+Jenkins GitHub Repository Cloning.
+
+Create a new item with option FreeStyle project.
+
+Add description about the current job and get the URL from Github.
+  
+In Source Management choose the option “Git”.
+
+Paste the URL Path in Repository URL (from Github).
+
+Branch specifier will already have “master” delete that(we are cloning the whole repository, rather than one single branch).
+
+In Build Trigger , Choose build periodically option and enter “* * * * * “ (If we don't want to build the job manually).
+
+Click on Save.
+Click on Build.
+
+Go to Dashboard and you can see the job is successfully built.
+
+
+The files will also be saved in your system to view that go to File explorer.
