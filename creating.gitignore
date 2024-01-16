@@ -1,0 +1,12 @@
+Creating .gitignore file (.gitignore)
+
+Step 1:Open your terminal/cmd and change your directory to the folder where your files are located. You can use ” ls -a” command to view its contents.
+
+Step 2: Create .gitignore File inside the project folder.
+
+Step 3: Write the name of the files you want to ignore in the .gitignore text file. Each file name should be written in a new line .
+
+Step 4: Initialize git in your terminal. Add these files to your git repository and commit all the changes with an appropriate message.
+
+Step 5: Check the status of the git repository. The file(s) added to the .gitignore text file will be ignored by the git every time you make any changes and commit.
+
