@@ -1,0 +1,13 @@
+
+1)Create a new item with option Pipeline.
+
+2)Choose the job which is already existed in the system and enter the name in “ Copy From”.
+
+3) Add the Job Description .
+
+4) In the build trigger option choose “Build Periodically”.
+
+5) Enter “* * * * *” in the build periodically option.
+
+
+6) Check Dashboard , It will reflect the job successfully done .	
